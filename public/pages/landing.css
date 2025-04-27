@@ -1,0 +1,86 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    font-size: 8rem;
+}
+
+
+
+.Main{
+   
+    display: flex;
+    flex-direction: column;
+  
+    align-items: center;
+}
+
+
+
+.Seccion{
+    display: flex;
+    padding: 3rem;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    gap: 20rem;
+    
+}
+
+.Texto-intro{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.Texto-2{
+    color: white;
+}
+
+
+.Intro{
+    font-size: 3rem;
+    font-weight: 500;
+    padding: 2rem;
+   
+}
+
+
+
+
+.Imagen{
+    border: 10px solid black;
+    border-radius: 50px;
+    width: 300px;
+    height: 490px;
+   margin: 1rem;
+}
+
+
+
+.Intro-2{
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+
+.Texto-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.Imagen-final{
+    width: 100%;
+}
