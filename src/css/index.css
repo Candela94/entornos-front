@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins;
+  font-size: 14px;
+
+  --background: #eeecec;
+  --text : rgb(48, 46, 46);
+
+}
+
+.Body{
+  background-color: var(--background);
+}
